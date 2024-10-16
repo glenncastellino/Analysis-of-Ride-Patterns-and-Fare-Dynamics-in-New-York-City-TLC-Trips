@@ -3,9 +3,15 @@ This project analyzes 2023 taxi data for NYC, focusing on ride patterns, fare dy
 
 
 **Project Contributors** :
+
 Neha Shastri (Project Manager)
+
 Hyunjin Yu
+
 Raskirt Bhatia
+
 Glenn Castellino
+
 Yifeng Chen
+
 Quan Nguyen
